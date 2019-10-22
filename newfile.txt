@@ -2,3 +2,6 @@ new line 1
 new line 2
 new line 3
 new line added in the repository on GitHub
+"add" means to create new files or add new lines in the file
+"commit" means to submit the change you made in local
+"push" means to upload the file you changed to git
